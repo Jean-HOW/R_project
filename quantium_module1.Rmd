@@ -1,0 +1,168 @@
+---
+title: "Quantium Virtual Internship - Retail Strategy and Analytics - Task 1"
+author: "Jean"
+date: "2/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(linewidth=80)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r knitr line wrap setup, include=FALSE}
+# set up line wrapping in MD knit output
+library(knitr)
+hook_output = knit_hooks$get("output")
+knit_hooks$set(output = function(x, options)
+{
+  # this hook is used only when the linewidth option is not NULL
+  if (!is.null(n <- options$linewidth))
+  {
+    x = knitr:::split_lines(x)
+    # any lines wider than n should be wrapped
+    if (any(nchar(x) > n))
+      x = strwrap(x, width = n)
+    x = paste(x, collapse = "\n")
+  }
+  hook_output(x, options)
+})
+```
+
+## INSTALL PACKAGES & LIBRARIES
+
+```{r 0 Load Libraries, results = 'hide'}
+install.packages("data.table")
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(dplyr)
+pacman::p_load_gh("trinker/textshape", "trinker/lexicon", "trinker/textclean")
+install.packages("miscset")
+install.packages("poppr")
+install.packages("tokenizers")
+
+library(data.table)
+library(ggplot2)
+library(ggmosaic)
+library(readr)
+library(dplyr)
+library(poppr)
+library(textclean)
+library(stringr)
+library(tokenizers)
+library(tidyr)
+library(tidyverse)
+library(ggplot2)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r importData}
+filePath <- "C:/Users/jean1/Desktop/Quantium/"
+transactionData <- fread(paste0(filePath,"QVI_transaction_data.csv"))
+customerData <- fread(paste0(filePath,"QVI_purchase_behaviour.csv"))
+```
+```{r examine transactionData}
+typeof(transactionData)
+dim(transactionData)
+str(transactionData)
+
+# HOw many unique transaction ID?
+length(unique(transactionData$TXN_ID))
+
+# Any duplication?
+dup <- transactionData[duplicated(transactionData$TXN_ID)|duplicated(transactionData$TXN_ID, fromLast = T),]
+# Look at TXN_ID == "48887"
+TXN_48887 <- transactionData %>% filter(TXN_ID == 48887)
+```
+```{r Convert DATE to date format}
+# CSV and Excel integer dates begin on 30 Dec 1899
+transactionData$DATE <- as.Date(transactionData$DATE, origin = "1899-12-30")
+
+```
+```{r PROD_NAME summary, remove digits & special.char}
+head(transactionData$PROD_NAME)
+packsize <- as.numeric(stringr::str_extract_all(transactionData$PROD_NAME, "\\d+"))
+head(packsize)
+
+# TEXT CLEANING
+clean_text <- function(input_text) {
+  text <- gsub("\\d+\\w*", "", input_text)
+  text <- str_remove_all(text, "[&/]")
+  text <- text[!is.na(text) & text != ""]
+  return(text)
+}
+
+# clean_text <- function(input_text) {
+#   text <- gsub('[0-9]+', '', Product_name)
+#   text <- gsub("\\s+", " ", text)
+#   return(text)
+# }
+
+Product_name <- clean_text(unlist(tokenize_regex(transactionData$PROD_NAME, pattern = "\\s+", simplify = F)))
+
+Product_name <- factor(Product_name, levels = unique(Product_name))
+
+Product_sum <- as.data.frame(Product_name, stringsAsFactors = TRUE) %>%
+               mutate(names = Product_name) %>% 
+               count(Product_name) %>% 
+               mutate(freq = n / sum(n)) %>% 
+               arrange(desc(n))
+
+```
+
+```{r Remove SALSA}
+transactionData[, SALSA := grepl("salsa", tolower(PROD_NAME))]
+transactionData <- transactionData[SALSA == FALSE, ][, SALSA := NULL]
+head(transactionData)
+
+```
+
+```{r initial summary}
+summary(transactionData)
+
+# LOOK FOR THE OCCURENCE OF PROD_QTY == 200
+pro_q200 <- transactionData %>% filter(PROD_QTY == 200)
+# There are 2 occurence of PROD_QTY == 200 from STORE_NBR == 226 (SAME CUSTOMER)
+
+# Check the customer transaction history (LYLTY_CARD_NBR == 226000)
+LYLTY_226 <- transactionData %>% filter(LYLTY_CARD_NBR == 226000)
+
+```
+
+```{r filter dataset}
+## This customer only made 2 transactions throughout hte whole year, thus he/she is most likely purchasing for commercial purposes rather than retail
+## safe to remove this outlier from both 'transactionData' and 'customerData'
+
+transactionData <- transactionData %>% filter(PROD_QTY != 200 & LYLTY_CARD_NBR != 226000)
+
+```
+
+```{r DATE}
+# Min: 2018-07-01
+# Max: 2019-06-30
+date_range <- seq(min(transactionData$DATE), max(transactionData$DATE), by = 1)
+date_range[!date_range %in% transactionData$DATE]
+## Retail store is closed on Xmas!
+# Transaction Summary count by DATE
+
+product_date <- transactionData %>% select(DATE, PROD_QTY, TOT_SALES) %>% 
+                group_by(DATE) %>% 
+                arrange(desc(TOT_SALES))
+
+head(product_date)
+
+plot_sales <- ggplot(product_date, aes(x = DATE, y = TOT_SALES)) +
+              geom_line()
+plot_sales
+```
+
+```{r}
+
+```
+
