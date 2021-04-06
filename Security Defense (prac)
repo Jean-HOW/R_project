@@ -1,0 +1,63 @@
+own = c(2,3,5,6,7)
+
+attempts = 2
+wrong = 0
+
+while(wrong < 3)
+{
+  first <- readline(prompt="Please key in the first digit of your command: ")
+  
+  if(own[1] == first)
+  {
+  
+    print("You are correct!!")
+    break
+   
+  
+  }else
+  {
+    if(attempts == 0)
+    {
+      print("You are wrong!! You are a hacker!! BYE BYE!!")
+      break
+    }
+    
+    print(paste("You are wrong!! You have", attempts, "more attempts."))
+    wrong = wrong + 1
+    attempts = attempts - 1
+  
+  }
+  
+
+  
+}
+
+attempts = 2
+wrong = 0
+
+while(wrong < 3)
+{
+  second <- readline(prompt="Please key in the second digit of your command: ")
+  
+  if(own[2] == second)
+  {
+    
+    print("You are correct!!")
+    
+    
+    
+  }else
+  {
+    if(attempts == 0)
+    {
+      
+      print("You are wrong!! You are a hacker!! BYE BYE!!")
+      break
+    }
+    print(paste("You are wrong!! You have", attempts, "more attempts."))
+    wrong = wrong + 1
+    attempts = attempts - 1
+    
+  }
+  
+}
