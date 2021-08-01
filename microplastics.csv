@@ -1,0 +1,1531 @@
+TRAWL,WATERWAY,DATE,MONTH,YEAR,SEASON,RAINFALL 48,Organic mass (g),Microplastic mass (g),TOTALMASS,PC.Microplastics,CATEGORY,SUBCATEGORY,MICROPLASTIC,COUNT
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,36
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,2
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,7
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Nurdles,Nurdles,Microplastics,2
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Polystyrene,Polystyrene <4mm,Microplastics,6
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,24
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Soft Plastics,Cellophane,Microplastics,
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Soft Plastics,Cellophane,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Other,Sponge,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Other,Twine,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Other,Cigarette butts,Not considered microplastics,0
+1,Maribyrnong,7/1/2015,Jan,2015,Summer,0,,0.455,,,Other,Other,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,60
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,11
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,8
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Nurdles,Nurdles,Microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Polystyrene,Polystyrene <4mm,Microplastics,2
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,18
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Soft Plastics,Cellophane,Microplastics,
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Soft Plastics,Cellophane,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Other,Sponge,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Other,Twine,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Other,Cigarette butts,Not considered microplastics,0
+1,Yarra,7/1/2015,Jan,2015,Summer,0,,0.258,,,Other,Other,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,30
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,14
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Nurdles,Nurdles,Microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Polystyrene,Polystyrene <4mm,Microplastics,4
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,11
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Soft Plastics,Cellophane,Microplastics,
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Soft Plastics,Cellophane,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Other,Sponge,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Other,Twine,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Other,Cigarette butts,Not considered microplastics,0
+2,Maribyrnong,13/2/2015,Feb,2015,Summer,0,,0.108,,,Other,Other,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,30
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,10
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Nurdles,Nurdles,Microplastics,1
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Polystyrene,Polystyrene <4mm,Microplastics,9
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Soft Plastics,Cellophane,Microplastics,
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Soft Plastics,Cellophane,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Other,Sponge,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Other,Twine,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Other,Cigarette butts,Not considered microplastics,0
+2,Yarra,13/2/2015,Feb,2015,Summer,0,,0.334,,,Other,Other,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,87
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,29
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Nurdles,Nurdles,Microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Polystyrene,Polystyrene <4mm,Microplastics,2
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,15
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Soft Plastics,Cellophane,Microplastics,
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Soft Plastics,Cellophane,Not considered microplastics,1
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Other,Sponge,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Other,Twine,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Other,Cigarette butts,Not considered microplastics,0
+3,Maribyrnong,8/4/2015,Apr,2015,Autumn,0,,0.349,,,Other,Other,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,25
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,10
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Nurdles,Nurdles,Microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Polystyrene,Polystyrene <4mm,Microplastics,4
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Soft Plastics,Cellophane,Microplastics,
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Soft Plastics,Cellophane,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Other,Sponge,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Other,Twine,Not considered microplastics,2
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Other,Cigarette butts,Not considered microplastics,0
+3,Yarra,8/4/2015,Apr,2015,Autumn,0,,0.354,,,Other,Other,Not considered microplastics,2
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,44
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,8
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Nurdles,Nurdles,Microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Polystyrene,Polystyrene <4mm,Microplastics,3
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Plastic Straws,Plastic Straws,Not considered microplastics,1
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Soft Plastics,Cellophane,Microplastics,
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Soft Plastics,Cellophane,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Other,Sponge,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Other,Twine,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Other,Cigarette butts,Not considered microplastics,0
+4,Maribyrnong,5/6/2015,Jun,2015,Winter,0.6,,0.027,,,Other,Other,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,37
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,4
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Nurdles,Nurdles,Microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Polystyrene,Polystyrene <4mm,Microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Plastic Straws,Plastic Straws,Not considered microplastics,7
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,8
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Soft Plastics,Cellophane,Microplastics,
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Soft Plastics,Cellophane,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Other,Sponge,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Other,Twine,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Other,Cigarette butts,Not considered microplastics,0
+4,Yarra,5/6/2015,Jun,2015,Winter,2,,0.342,,,Other,Other,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,44
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,23
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Nurdles,Nurdles,Microplastics,10
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Polystyrene,Polystyrene <4mm,Microplastics,22
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,15
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,4
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Soft Plastics,Cellophane,Microplastics,
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Soft Plastics,Cellophane,Not considered microplastics, 
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Other,Sponge,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Other,Twine,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Other,Cigarette butts,Not considered microplastics,0
+5,Maribyrnong,24/6/2015,Jun,2015,Winter,0,,5.776,,,Other,Other,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,17
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,6
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Nurdles,Nurdles,Microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Polystyrene,Polystyrene <4mm,Microplastics,5
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,18
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Soft Plastics,Cellophane,Microplastics,
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Soft Plastics,Cellophane,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Other,Sponge,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Other,Twine,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Other,Cigarette butts,Not considered microplastics,0
+5,Yarra,24/6/2015,Jun,2015,Winter,0,,2.302,,,Other,Other,Not considered microplastics,2
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,17
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,3
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Nurdles,Nurdles,Microplastics,2
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Polystyrene,Polystyrene <4mm,Microplastics,2
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Plastic Straws,Plastic Straws,Not considered microplastics,4
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,4
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Soft Plastics,Cellophane,Microplastics,
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Soft Plastics,Cellophane,Not considered microplastics,28
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Other,Sponge,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Other,Twine,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Other,Cigarette butts,Not considered microplastics,0
+6,Maribyrnong,22/7/2015,Jul,2015,Winter,0,,0.128,,,Other,Other,Not considered microplastics,0
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,126
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,36
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,13
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,5
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Nurdles,Nurdles,Microplastics,2
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Polystyrene,Polystyrene <4mm,Microplastics,49
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,12
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Plastic Straws,Plastic Straws,Not considered microplastics,5
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Soft Plastics,Cellophane,Microplastics,
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Soft Plastics,Cellophane,Not considered microplastics,1
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Other,Sponge,Not considered microplastics,0
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Other,Twine,Not considered microplastics,4
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Other,Cigarette butts,Not considered microplastics,0
+6,Yarra,22/7/2015,Jul,2015,Winter,0.2,,0.657,,,Other,Other,Not considered microplastics,4
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,48
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,15
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,5
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,8
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Nurdles,Nurdles,Microplastics,3
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Polystyrene,Polystyrene <4mm,Microplastics,23
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,2
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,5
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,5
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Soft Plastics,Cellophane,Microplastics,
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Soft Plastics,Cellophane,Not considered microplastics,14
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Other,Sponge,Not considered microplastics,0
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Other,Twine,Not considered microplastics,3
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Other,Cigarette butts,Not considered microplastics,2
+7,Maribyrnong,19/8/2015,Aug,2015,Winter,2.8,,8,,,Other,Other,Not considered microplastics,2
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,30
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,5
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Nurdles,Nurdles,Microplastics,1
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Polystyrene,Polystyrene <4mm,Microplastics,20
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Plastic Straws,Plastic Straws,Not considered microplastics,1
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Soft Plastics,Cellophane,Microplastics,
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Soft Plastics,Cellophane,Not considered microplastics,11
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Other,Sponge,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Other,Twine,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Other,Cigarette butts,Not considered microplastics,0
+7,Yarra,19/8/2015,Aug,2015,Winter,3.8,,1.35,,,Other,Other,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,3
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Nurdles,Nurdles,Microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Polystyrene,Polystyrene <4mm,Microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Plastic Straws,Plastic Straws,Not considered microplastics,4
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,1
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Soft Plastics,Cellophane,Microplastics,
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Soft Plastics,Cellophane,Not considered microplastics,1
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Other,Sponge,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Other,Twine,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Other,Cigarette butts,Not considered microplastics,0
+8,Maribyrnong,29/9/2015,Sep,2015,Spring,0,,0.05,,,Other,Other,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,36
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Nurdles,Nurdles,Microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Polystyrene,Polystyrene <4mm,Microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Plastic Straws,Plastic Straws,Not considered microplastics,5
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Soft Plastics,Cellophane,Microplastics,
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Soft Plastics,Cellophane,Not considered microplastics,1
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Other,Sponge,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Other,Twine,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Other,Cigarette butts,Not considered microplastics,0
+8,Yarra,29/9/2015,Sep,2015,Spring,0,,0.1,,,Other,Other,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,33
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,6
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Nurdles,Nurdles,Microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Polystyrene,Polystyrene <4mm,Microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,6
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,5
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Soft Plastics,Cellophane,Microplastics,
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Soft Plastics,Cellophane,Not considered microplastics,13
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Other,Sponge,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Other,Twine,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Other,Cigarette butts,Not considered microplastics,0
+9,Maribyrnong,27/10/2015,Oct,2015,Spring,0,,0.41,,,Other,Other,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,43
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,5
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Nurdles,Nurdles,Microplastics,1
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Polystyrene,Polystyrene <4mm,Microplastics,1
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Plastic Straws,Plastic Straws,Not considered microplastics,9
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,8
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,4
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Soft Plastics,Cellophane,Microplastics,
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Soft Plastics,Cellophane,Not considered microplastics,46
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Other,Sponge,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Other,Twine,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Other,Cigarette butts,Not considered microplastics,0
+9,Yarra,27/10/2015,Oct,2015,Spring,0.6,,0.2,,,Other,Other,Not considered microplastics,0
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,51
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,36
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,5
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,16
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Nurdles,Nurdles,Microplastics,6
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Polystyrene,Polystyrene <4mm,Microplastics,14
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Plastic Straws,Plastic Straws,Not considered microplastics,15
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,14
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Soft Plastics,Cellophane,Microplastics,
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Soft Plastics,Cellophane,Not considered microplastics,77
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Other,Sponge,Not considered microplastics,2
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Other,Twine,Not considered microplastics,0
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Other,Cigarette butts,Not considered microplastics,3
+10,Maribyrnong,20/11/2015,Nov,2015,Spring,0.2,,4.32,,,Other,Other,Not considered microplastics,1
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,45
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,23
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,7
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,15
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Nurdles,Nurdles,Microplastics,3
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Polystyrene,Polystyrene <4mm,Microplastics,30
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,18
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Plastic Straws,Plastic Straws,Not considered microplastics,3
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,8
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,5
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Soft Plastics,Cellophane,Microplastics,
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Soft Plastics,Cellophane,Not considered microplastics,9
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Other,Sponge,Not considered microplastics,6
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Other,Twine,Not considered microplastics,0
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Other,Cigarette butts,Not considered microplastics,2
+10,Yarra,20/11/2015,Nov,2015,Spring,0.2,,7.856,,,Other,Other,Not considered microplastics,2
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,35
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,5
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Nurdles,Nurdles,Microplastics,7
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Polystyrene,Polystyrene <4mm,Microplastics,12
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Plastic Straws,Plastic Straws,Not considered microplastics,1
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Soft Plastics,Cellophane,Microplastics,
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Soft Plastics,Cellophane,Not considered microplastics,5
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Other,Sponge,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Other,Twine,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Other,Cigarette butts,Not considered microplastics,0
+11,Maribyrnong,18/12/2015,Dec,2015,Summer,0,,,,,Other,Other,Not considered microplastics,1
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,200
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,31
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,21
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,13
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Nurdles,Nurdles,Microplastics,18
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Polystyrene,Polystyrene <4mm,Microplastics,54
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Plastic Straws,Plastic Straws,Not considered microplastics,1
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Soft Plastics,Soft Plastics <5mm,Microplastics,
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,1
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Soft Plastics,Cellophane,Microplastics,
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Soft Plastics,Cellophane,Not considered microplastics,26
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Other,Sponge,Not considered microplastics,0
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Other,Twine,Not considered microplastics,0
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Other,Cigarette butts,Not considered microplastics,0
+11,Yarra,18/12/2015,Dec,2015,Summer,0,24.3,8.131,32.431,0.250716907,Other,Other,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,60
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,11
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,8
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Nurdles,Nurdles,Microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Polystyrene,Polystyrene <4mm,Microplastics,2
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Polystyrene,Polystyrene 4+mm,Not considered microplastics,18
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Plastic Straws,Plastic Straws,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Soft Plastics,Soft Plastics <5mm,Microplastics,
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Soft Plastics,Cellophane,Microplastics,
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Soft Plastics,Cellophane,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Other,Sponge,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Other,Twine,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Other,Cigarette butts,Not considered microplastics,0
+12,Yarra,7/1/2016,Jan,2016,Summer,6.2,6.183,0.009,6.192,0.001453488,Other,Other,Not considered microplastics,0
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,80
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,100
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,9
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,9
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Nurdles,Nurdles,Microplastics,9
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Polystyrene,Polystyrene <4mm,Microplastics,14
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,4
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Plastic Straws,Plastic Straws,Not considered microplastics,5
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics, 
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,6
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Soft Plastics,Cellophane,Microplastics,
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Soft Plastics,Cellophane,Not considered microplastics,10
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Other,Sponge,Not considered microplastics,2
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Other,Twine,Not considered microplastics,0
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Other,Cigarette butts,Not considered microplastics,8
+13,Maribyrnong,28/1/2016,Jan,2016,Summer,0,,34.8,,,Other,Other,Not considered microplastics,1
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,17
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,1
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,10
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Nurdles,Nurdles,Microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Polystyrene,Polystyrene <4mm,Microplastics,6
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Soft Plastics,Cellophane,Microplastics,
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Soft Plastics,Cellophane,Not considered microplastics,2
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Other,Sponge,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Other,Twine,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Other,Cigarette butts,Not considered microplastics,0
+13,Yarra,28/1/2016,Jan,2016,Summer,1.6,,0.115,,,Other,Other,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,41
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,15
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Nurdles,Nurdles,Microplastics,4
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Polystyrene,Polystyrene <4mm,Microplastics,19
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Plastic Straws,Plastic Straws,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Soft Plastics,Soft Plastics <5mm,Microplastics,
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Soft Plastics,Cellophane,Microplastics,
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Soft Plastics,Cellophane,Not considered microplastics,4
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Other,Sponge,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Other,Twine,Not considered microplastics,0
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Other,Cigarette butts,Not considered microplastics,1
+14,Maribyrnong,24/2/2016,Feb,2016,Summer,0,12.803,2.019,14.822,0.136216435,Other,Other,Not considered microplastics,1
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,116
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,4
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Nurdles,Nurdles,Microplastics,4
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Polystyrene,Polystyrene <4mm,Microplastics,36
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Polystyrene,Polystyrene 4+mm,Not considered microplastics,14
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Plastic Straws,Plastic Straws,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Soft Plastics,Soft Plastics <5mm,Microplastics,
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Soft Plastics,Cellophane,Microplastics,
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Soft Plastics,Cellophane,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Other,Sponge,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Other,Twine,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Other,Cigarette butts,Not considered microplastics,0
+14,Yarra,24/2/2016,Feb,2016,Summer,0,4.752,1.797,6.549,0.274393037,Other,Other,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,36
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,6
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Nurdles,Nurdles,Microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Polystyrene,Polystyrene <4mm,Microplastics,2
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,6
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Soft Plastics,Cellophane,Microplastics,
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Soft Plastics,Cellophane,Not considered microplastics,1
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Other,Sponge,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Other,Twine,Not considered microplastics,1
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Other,Cigarette butts,Not considered microplastics,0
+15,Maribyrnong,23/3/2016,Mar,2016,Autumn,0,,,,,Other,Other,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,87
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,5
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Nurdles,Nurdles,Microplastics,4
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Polystyrene,Polystyrene <4mm,Microplastics,6
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Plastic Straws,Plastic Straws,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Soft Plastics,Soft Plastics <5mm,Microplastics,
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Soft Plastics,Cellophane,Microplastics,
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Soft Plastics,Cellophane,Not considered microplastics,2
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Other,Sponge,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Other,Twine,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Other,Cigarette butts,Not considered microplastics,0
+15,Yarra,23/3/2016,Mar,2016,Autumn,0,0.393,0.325,0.718,0.45264624,Other,Other,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,36
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,4
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Nurdles,Nurdles,Microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Polystyrene,Polystyrene <4mm,Microplastics,1
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Soft Plastics,Cellophane,Microplastics,
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Soft Plastics,Cellophane,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Other,Sponge,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Other,Twine,Not considered microplastics,1
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Other,Cigarette butts,Not considered microplastics,0
+16,Maribyrnong,27/4/2016,Apr,2016,Autumn,0,,,,,Other,Other,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,100
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,5
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Nurdles,Nurdles,Microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Polystyrene,Polystyrene <4mm,Microplastics,9
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,5
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,1
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Soft Plastics,Cellophane,Microplastics,
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Soft Plastics,Cellophane,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Other,Sponge,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Other,Twine,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Other,Cigarette butts,Not considered microplastics,0
+16,Yarra,27/4/2016,Apr,2016,Autumn,0,,0.2,0.2,,Other,Other,Not considered microplastics,1
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,3
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,10
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,5
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Nurdles,Nurdles,Microplastics,14
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Polystyrene,Polystyrene <4mm,Microplastics,5
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,3
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Plastic Straws,Plastic Straws,Not considered microplastics,1
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Soft Plastics,Soft Plastics <5mm,Microplastics,
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Soft Plastics,Cellophane,Microplastics,
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Soft Plastics,Cellophane,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Other,Sponge,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Other,Twine,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Other,Cigarette butts,Not considered microplastics,0
+17,Maribyrnong,20/5/2016,May,2016,Autumn,0,25.7,0.093023256,25.79302326,0.003606528,Other,Other,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,20
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,16
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Nurdles,Nurdles,Microplastics,7
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Polystyrene,Polystyrene <4mm,Microplastics,27
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Plastic Straws,Plastic Straws,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Soft Plastics,Soft Plastics <5mm,Microplastics,
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,12
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Soft Plastics,Cellophane,Microplastics,
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Soft Plastics,Cellophane,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Other,Sponge,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Other,Twine,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Other,Cigarette butts,Not considered microplastics,0
+17,Yarra,20/5/2016,May,2016,Autumn,0,2.718,0.14,2.858,0.048985304,Other,Other,Not considered microplastics,0
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,51
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,21
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,10
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,7
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Nurdles,Nurdles,Microplastics,34
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Polystyrene,Polystyrene <4mm,Microplastics,13
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Polystyrene,Polystyrene 4+mm,Not considered microplastics,9
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,2
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Plastic Straws,Plastic Straws,Not considered microplastics,1
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Soft Plastics,Soft Plastics <5mm,Microplastics,
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Soft Plastics,Lolly Wrappers,Not considered microplastics,4
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Soft Plastics,Cellophane,Microplastics,
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Soft Plastics,Cellophane,Not considered microplastics,2
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Other,Sponge,Not considered microplastics,3
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Other,Twine,Not considered microplastics,1
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Other,Cigarette butts,Not considered microplastics,11
+18,Maribyrnong,5/7/2016,Jul,2016,Winter,0,94,14.425,108.425,0.133041273,Other,Other,Not considered microplastics,0
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,83
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,24
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,19
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Nurdles,Nurdles,Microplastics,5
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Polystyrene,Polystyrene <4mm,Microplastics,111
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Polystyrene,Polystyrene 4+mm,Not considered microplastics,18
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Plastic Straws,Plastic Straws,Not considered microplastics,0
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Soft Plastics,Soft Plastics <5mm,Microplastics,
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Soft Plastics,Lolly Wrappers,Not considered microplastics,4
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Soft Plastics,Cellophane,Microplastics,
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Soft Plastics,Cellophane,Not considered microplastics,9
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Other,Sponge,Not considered microplastics,1
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Other,Twine,Not considered microplastics,3
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Other,Cigarette butts,Not considered microplastics,0
+18,Yarra,5/7/2016,Jul,2016,Winter,0,20.26,2.489,22.749,0.109411403,Other,Other,Not considered microplastics,6
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,13
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,10
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Nurdles,Nurdles,Microplastics,5
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Polystyrene,Polystyrene <4mm,Microplastics,5
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Polystyrene,Polystyrene 4+mm,Not considered microplastics,9
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Plastic Straws,Plastic Straws,Not considered microplastics,0
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Soft Plastics,Soft Plastics <5mm,Microplastics,
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Soft Plastics,Cellophane,Microplastics,
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Soft Plastics,Cellophane,Not considered microplastics,
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Other,Sponge,Not considered microplastics,1
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Other,Twine,Not considered microplastics,11
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Other,Cigarette butts,Not considered microplastics,0
+19,Maribyrnong,27/7/2016,Jul,2016,Winter,2.6,4.725,0.308,5.033,0.061196106,Other,Other,Not considered microplastics,0
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,38
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,15
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,6
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,18
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Nurdles,Nurdles,Microplastics,3
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Polystyrene,Polystyrene <4mm,Microplastics,46
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Polystyrene,Polystyrene 4+mm,Not considered microplastics,20
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Plastic Straws,Plastic Straws,Not considered microplastics,0
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Soft Plastics,Soft Plastics <5mm,Microplastics,
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,2
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Soft Plastics,Cellophane,Microplastics,
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Soft Plastics,Cellophane,Not considered microplastics,8
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Other,Sponge,Not considered microplastics,1
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Other,Twine,Not considered microplastics,11
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Other,Cigarette butts,Not considered microplastics,0
+19,Yarra,27/7/2016,Jul,2016,Winter,4,13.742,3.784,17.526,0.215907794,Other,Other,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,1
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,3
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Nurdles,Nurdles,Microplastics,1
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Polystyrene,Polystyrene <4mm,Microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Plastic Straws,Plastic Straws,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Soft Plastics,Soft Plastics <5mm,Microplastics,
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Soft Plastics,Cellophane,Microplastics,
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Soft Plastics,Cellophane,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Other,Sponge,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Other,Twine,Not considered microplastics,8
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Other,Cigarette butts,Not considered microplastics,0
+20,Maribyrnong,26/8/2016,Aug,2016,Winter,0.2,0.634,0.133,0.767,0.173402868,Other,Other,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,12
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,1
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,1
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Nurdles,Nurdles,Microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Polystyrene,Polystyrene <4mm,Microplastics,1
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Plastic Straws,Plastic Straws,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Soft Plastics,Soft Plastics <5mm,Microplastics,
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Soft Plastics,Cellophane,Microplastics,
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Soft Plastics,Cellophane,Not considered microplastics,2
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Other,Sponge,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Other,Twine,Not considered microplastics,21
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Other,Cigarette butts,Not considered microplastics,0
+20,Yarra,26/8/2016,Aug,2016,Winter,1.4,0.751,0.01,0.761,0.013140604,Other,Other,Not considered microplastics,0
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,58
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,26
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,15
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,41
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Nurdles,Nurdles,Microplastics,5
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Polystyrene,Polystyrene <4mm,Microplastics,32
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Polystyrene,Polystyrene 4+mm,Not considered microplastics,24
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Plastic Straws,Plastic Straws,Not considered microplastics,0
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Soft Plastics,Soft Plastics <5mm,Microplastics,
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Soft Plastics,Lolly Wrappers,Not considered microplastics,6
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Soft Plastics,Cellophane,Microplastics,
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Soft Plastics,Cellophane,Not considered microplastics,8
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Other,Sponge,Not considered microplastics,0
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Other,Twine,Not considered microplastics,11
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Other,Cigarette butts,Not considered microplastics,0
+21,Maribyrnong,6/9/2016,Sep,2016,Spring,0.2,34.15,4.997,39.147,0.127647074,Other,Other,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,3
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Nurdles,Nurdles,Microplastics,1
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Polystyrene,Polystyrene <4mm,Microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Soft Plastics,Cellophane,Microplastics,
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Soft Plastics,Cellophane,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Other,Sponge,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Other,Twine,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Other,Cigarette butts,Not considered microplastics,0
+21,Yarra,6/9/2016,Sep,2016,Spring,0,,,,,Other,Other,Not considered microplastics,0
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,12
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,11
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,19
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,10
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Nurdles,Nurdles,Microplastics,7
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Polystyrene,Polystyrene <4mm,Microplastics,29
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Polystyrene,Polystyrene 4+mm,Not considered microplastics,9
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Plastic Straws,Plastic Straws,Not considered microplastics,0
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Soft Plastics,Soft Plastics <5mm,Microplastics,
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,2
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Soft Plastics,Cellophane,Microplastics,
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Soft Plastics,Cellophane,Not considered microplastics,1
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Other,Sponge,Not considered microplastics,1
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Other,Twine,Not considered microplastics,3
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Other,Cigarette butts,Not considered microplastics,0
+22,Yarra,6/10/2016,Oct,2016,Spring,7.6,18.5,1.326,19.826,0.066881872,Other,Other,Not considered microplastics,4
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,11
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,11
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Nurdles,Nurdles,Microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Polystyrene,Polystyrene <4mm,Microplastics,1
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Plastic Straws,Plastic Straws,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Soft Plastics,Soft Plastics <5mm,Microplastics,
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Soft Plastics,Cellophane,Microplastics,
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Soft Plastics,Cellophane,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Other,Sponge,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Other,Twine,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Other,Cigarette butts,Not considered microplastics,0
+23,Maribyrnong,3/11/2016,Nov,2016,Spring,1.6,3.728,0.614,4.342,0.141409489,Other,Other,Not considered microplastics,0
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,34
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,21
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,10
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,18
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Nurdles,Nurdles,Microplastics,4
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Polystyrene,Polystyrene <4mm,Microplastics,22
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,3
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Soft Plastics,Cellophane,Microplastics,
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Soft Plastics,Cellophane,Not considered microplastics,6
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Other,Sponge,Not considered microplastics,1
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Other,Twine,Not considered microplastics,5
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Other,Cigarette butts,Not considered microplastics,1
+23,Yarra,3/11/2016,Nov,2016,Spring,2,13.5,,,,Other,Other,Not considered microplastics,2
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,49
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,4
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Nurdles,Nurdles,Microplastics,3
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Polystyrene,Polystyrene <4mm,Microplastics,24
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Polystyrene,Polystyrene 4+mm,Not considered microplastics,4
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Plastic Straws,Plastic Straws,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Soft Plastics,Soft Plastics <5mm,Microplastics,
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Soft Plastics,Cellophane,Microplastics,
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Soft Plastics,Cellophane,Not considered microplastics,7
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Other,Sponge,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Other,Twine,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Other,Cigarette butts,Not considered microplastics,0
+24,Maribyrnong,1/12/2016,Dec,2016,Summer,0,3.214,0.17,3.384,0.050236407,Other,Other,Not considered microplastics,0
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,33
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,3
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,1
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Nurdles,Nurdles,Microplastics,1
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Polystyrene,Polystyrene <4mm,Microplastics,20
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Polystyrene,Polystyrene 4+mm,Not considered microplastics,4
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Plastic Straws,Plastic Straws,Not considered microplastics,0
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Soft Plastics,Soft Plastics <5mm,Microplastics,
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,1
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Soft Plastics,Cellophane,Microplastics,
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Soft Plastics,Cellophane,Not considered microplastics,2
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Other,Sponge,Not considered microplastics,0
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Other,Twine,Not considered microplastics,0
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Other,Cigarette butts,Not considered microplastics,1
+24,Yarra,1/12/2016,Dec,2016,Summer,0,7.099,0.531,7.63,0.069593709,Other,Other,Not considered microplastics,1
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,130
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,13
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,2
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,6
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Nurdles,Nurdles,Microplastics,11
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Polystyrene,Polystyrene <4mm,Microplastics,4
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Polystyrene,Polystyrene 4+mm,Not considered microplastics,4
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,4
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Plastic Straws,Plastic Straws,Not considered microplastics,7
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Soft Plastics,Soft Plastics <5mm,Microplastics,
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,2
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Soft Plastics,Lolly Wrappers,Not considered microplastics,9
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Soft Plastics,Cellophane,Microplastics,
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Soft Plastics,Cellophane,Not considered microplastics,85
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Other,Sponge,Not considered microplastics,0
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Other,Twine,Not considered microplastics,0
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Other,Cigarette butts,Not considered microplastics,0
+25,Maribyrnong,12/1/2017,Jan,2017,Summer,0,17.652,15.789,33.441,0.472144972,Other,Other,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,175
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,30
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Nurdles,Nurdles,Microplastics,6
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Polystyrene,Polystyrene <4mm,Microplastics,159
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Polystyrene,Polystyrene 4+mm,Not considered microplastics,10
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Plastic Straws,Plastic Straws,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Soft Plastics,Soft Plastics <5mm,Microplastics,
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Soft Plastics,Cellophane,Microplastics,
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Soft Plastics,Cellophane,Not considered microplastics,68
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Other,Sponge,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Other,Twine,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Other,Cigarette butts,Not considered microplastics,0
+25,Yarra,12/1/2017,Jan,2017,Summer,0,37.2,5.883,43.083,0.13655038,Other,Other,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,115
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,13
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,5
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Nurdles,Nurdles,Microplastics,2
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Polystyrene,Polystyrene <4mm,Microplastics,6
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,2
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Plastic Straws,Plastic Straws,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Soft Plastics,Soft Plastics <5mm,Microplastics,
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Soft Plastics,Cellophane,Microplastics,
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Soft Plastics,Cellophane,Not considered microplastics,105
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Other,Sponge,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Other,Twine,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Other,Cigarette butts,Not considered microplastics,0
+26,Maribyrnong,2/2/2017,Feb,2017,Summer,0,6.696,3.858,10.554,0.365548607,Other,Other,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,253
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,74
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,24
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,8
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Nurdles,Nurdles,Microplastics,6
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Polystyrene,Polystyrene <4mm,Microplastics,42
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Polystyrene,Polystyrene 4+mm,Not considered microplastics,4
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Plastic Straws,Plastic Straws,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Soft Plastics,Soft Plastics <5mm,Microplastics,
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Soft Plastics,Lolly Wrappers,Not considered microplastics,8
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Soft Plastics,Cellophane,Microplastics,
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Soft Plastics,Cellophane,Not considered microplastics,51
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Other,Sponge,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Other,Twine,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Other,Cigarette butts,Not considered microplastics,0
+26,Yarra,2/2/2017,Feb,2017,Summer,1.6,35.1,3.916,39.016,0.100369079,Other,Other,Not considered microplastics,0
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,194
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,19
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,10
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,19
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Nurdles,Nurdles,Microplastics,17
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Polystyrene,Polystyrene <4mm,Microplastics,25
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Polystyrene,Polystyrene 4+mm,Not considered microplastics,50
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Plastic Straws,Plastic Straws,Not considered microplastics,1
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Soft Plastics,Soft Plastics <5mm,Microplastics,
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Soft Plastics,Lolly Wrappers,Not considered microplastics,6
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Soft Plastics,Cellophane,Microplastics,
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Soft Plastics,Cellophane,Not considered microplastics,13
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Other,Sponge,Not considered microplastics,0
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Other,Twine,Not considered microplastics,1
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Other,Cigarette butts,Not considered microplastics,6
+27,Maribyrnong,12/4/2017,Apr,2017,Autumn,42.8,170,23,193,0.119170984,Other,Other,Not considered microplastics,0
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,280
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,128
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,9
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,20
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Nurdles,Nurdles,Microplastics,18
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Polystyrene,Polystyrene <4mm,Microplastics,20
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Polystyrene,Polystyrene 4+mm,Not considered microplastics,3
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Plastic Straws,Plastic Straws,Not considered microplastics,2
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Soft Plastics,Soft Plastics <5mm,Microplastics,
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Soft Plastics,Cellophane,Microplastics,
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Soft Plastics,Cellophane,Not considered microplastics,7
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Other,Sponge,Not considered microplastics,0
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Other,Twine,Not considered microplastics,0
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Other,Cigarette butts,Not considered microplastics,5
+27,Yarra,12/4/2017,Apr,2017,Autumn,31,48,12,60,0.2,Other,Other,Not considered microplastics,1
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,13
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Nurdles,Nurdles,Microplastics,6
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Polystyrene,Polystyrene <4mm,Microplastics,15
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Plastic Straws,Plastic Straws,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Soft Plastics,Soft Plastics <5mm,Microplastics,
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,1
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Soft Plastics,Cellophane,Microplastics,
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Soft Plastics,Cellophane,Not considered microplastics,1
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Other,Sponge,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Other,Twine,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Other,Cigarette butts,Not considered microplastics,0
+28,Maribyrnong,11/5/2017,May,2017,Autumn,1.4,37,5,42,0.119047619,Other,Other,Not considered microplastics,0
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,200
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,100
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,6
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,25
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Nurdles,Nurdles,Microplastics,2
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Polystyrene,Polystyrene <4mm,Microplastics,35
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Plastic Straws,Plastic Straws,Not considered microplastics,0
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Soft Plastics,Soft Plastics <5mm,Microplastics,
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,6
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Soft Plastics,Cellophane,Microplastics,
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Soft Plastics,Cellophane,Not considered microplastics,3
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Other,Sponge,Not considered microplastics,0
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Other,Twine,Not considered microplastics,1
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Other,Cigarette butts,Not considered microplastics,0
+28,Yarra,11/5/2017,May,2017,Autumn,0.8,,,,,Other,Other,Not considered microplastics,0
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,607
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,723
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,197
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,43
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Nurdles,Nurdles,Microplastics,50
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Polystyrene,Polystyrene <4mm,Microplastics,548
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Polystyrene,Polystyrene 4+mm,Not considered microplastics,195
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Plastic Straws,Plastic Straws,Not considered microplastics,0
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Soft Plastics,Soft Plastics <5mm,Microplastics,52
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,45
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Soft Plastics,Lolly Wrappers,Not considered microplastics,5
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Soft Plastics,Cellophane,Microplastics,41
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Soft Plastics,Cellophane,Not considered microplastics,26
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Other,Sponge,Not considered microplastics,17
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Other,Twine,Not considered microplastics,6
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Other,Cigarette butts,Not considered microplastics,0
+29,Yarra,26/6/2017,Jun,2017,Winter,2.4,90.44,23,113.47,0.202750353,Other,Other,Not considered microplastics,12
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,126
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,14
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,8
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,8
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Nurdles,Nurdles,Microplastics,4
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Polystyrene,Polystyrene <4mm,Microplastics,27
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Plastic Straws,Plastic Straws,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Soft Plastics,Soft Plastics <5mm,Microplastics,10
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Soft Plastics,Cellophane,Microplastics,1
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Soft Plastics,Cellophane,Not considered microplastics,2
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Other,Sponge,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Other,Twine,Not considered microplastics,5
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Other,Cigarette butts,Not considered microplastics,0
+30,Maribyrnong,4/8/2017,Aug,2017,Winter,0,29.63,1.36,30.99,0.043885124,Other,Other,Not considered microplastics,0
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,423
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,214
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,46
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,8
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Nurdles,Nurdles,Microplastics,4
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Polystyrene,Polystyrene <4mm,Microplastics,336
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Polystyrene,Polystyrene 4+mm,Not considered microplastics,59
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Plastic Straws,Plastic Straws,Not considered microplastics,0
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Soft Plastics,Soft Plastics <5mm,Microplastics,33
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,10
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Soft Plastics,Cellophane,Microplastics,51
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Soft Plastics,Cellophane,Not considered microplastics,11
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Other,Sponge,Not considered microplastics,8
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Other,Twine,Not considered microplastics,1
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Other,Cigarette butts,Not considered microplastics,0
+30,Yarra,4/8/2017,Aug,2017,Winter,0,32.45,3.46,35.91,0.096351991,Other,Other,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,59
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,34
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Nurdles,Nurdles,Microplastics,1
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Polystyrene,Polystyrene <4mm,Microplastics,8
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Plastic Straws,Plastic Straws,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Soft Plastics,Soft Plastics <5mm,Microplastics,10
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,5
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Soft Plastics,Cellophane,Microplastics,12
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Soft Plastics,Cellophane,Not considered microplastics,6
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Other,Sponge,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Other,Twine,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Other,Cigarette butts,Not considered microplastics,0
+31,Maribyrnong,1/9/2017,Sep,2017,Spring,1,3.88,0.24,4.12,0.058252427,Other,Other,Not considered microplastics,0
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,83
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,65
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,10
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,10
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Nurdles,Nurdles,Microplastics,2
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Polystyrene,Polystyrene <4mm,Microplastics,26
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Polystyrene,Polystyrene 4+mm,Not considered microplastics,8
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Plastic Straws,Plastic Straws,Not considered microplastics,1
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Soft Plastics,Soft Plastics <5mm,Microplastics,40
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Soft Plastics,Cellophane,Microplastics,
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Soft Plastics,Cellophane,Not considered microplastics,12
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Other,Sponge,Not considered microplastics,2
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Other,Twine,Not considered microplastics,0
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Other,Cigarette butts,Not considered microplastics,0
+31,Yarra,1/9/2017,Sep,2017,Spring,0.6,14.68,6.51,21.19,0.307220387,Other,Other,Not considered microplastics,25
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,46
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,6
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,5
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Nurdles,Nurdles,Microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Polystyrene,Polystyrene <4mm,Microplastics,3
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Plastic Straws,Plastic Straws,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Soft Plastics,Soft Plastics <5mm,Microplastics,14
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Soft Plastics,Cellophane,Microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Soft Plastics,Cellophane,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Other,Sponge,Not considered microplastics,1
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Other,Twine,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Other,Cigarette butts,Not considered microplastics,0
+32,Maribyrnong,1/10/2017,Oct,2017,Spring,0.2,0.58,0.02,0.6,0.033333333,Other,Other,Not considered microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,110
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,12
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,13
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,12
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Nurdles,Nurdles,Microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Polystyrene,Polystyrene <4mm,Microplastics,13
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Plastic Straws,Plastic Straws,Not considered microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Soft Plastics,Soft Plastics <5mm,Microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,13
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Soft Plastics,Cellophane,Microplastics,1
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Soft Plastics,Cellophane,Not considered microplastics,5
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Other,Sponge,Not considered microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Other,Twine,Not considered microplastics,6
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Other,Cigarette butts,Not considered microplastics,0
+32,Yarra,1/10/2017,Oct,2017,Spring,0,3.38,1.47,4.85,0.303092784,Other,Other,Not considered microplastics,0
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,99
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,55
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,8
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Nurdles,Nurdles,Microplastics,2
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Polystyrene,Polystyrene <4mm,Microplastics,15
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Polystyrene,Polystyrene 4+mm,Not considered microplastics,3
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Plastic Straws,Plastic Straws,Not considered microplastics,0
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Soft Plastics,Soft Plastics <5mm,Microplastics,5
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Soft Plastics,Cellophane,Microplastics,12
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Soft Plastics,Cellophane,Not considered microplastics,1
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Other,Sponge,Not considered microplastics,2
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Other,Twine,Not considered microplastics,0
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Other,Cigarette butts,Not considered microplastics,1
+33,Maribyrnong,2/11/2017,Nov,2017,Spring,3.8,22.8,3.44,26.24,0.131097561,Other,Other,Not considered microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,131
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,56
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,43
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Nurdles,Nurdles,Microplastics,3
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Polystyrene,Polystyrene <4mm,Microplastics,98
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Polystyrene,Polystyrene 4+mm,Not considered microplastics,22
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Plastic Straws,Plastic Straws,Not considered microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Soft Plastics,Soft Plastics <5mm,Microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Soft Plastics,Lolly Wrappers,Not considered microplastics,3
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Soft Plastics,Cellophane,Microplastics,1
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Soft Plastics,Cellophane,Not considered microplastics,10
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Other,Sponge,Not considered microplastics,0
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Other,Twine,Not considered microplastics,1
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Other,Cigarette butts,Not considered microplastics,1
+33,Yarra,2/11/2017,Nov,2017,Spring,11.4,8.19,2.01,10.2,0.197058824,Other,Other,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,56
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,47
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,11
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Nurdles,Nurdles,Microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Polystyrene,Polystyrene <4mm,Microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Plastic Straws,Plastic Straws,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Soft Plastics,Soft Plastics <5mm,Microplastics,14
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Soft Plastics,Cellophane,Microplastics,1
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Soft Plastics,Cellophane,Not considered microplastics,3
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Other,Sponge,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Other,Twine,Not considered microplastics,7
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Other,Cigarette butts,Not considered microplastics,0
+34,Maribyrnong,18/12/2017,Dec,2017,Summer,0,2.158,3.853,6.011,0.640991516,Other,Other,Not considered microplastics,0
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,653
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,161
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,23
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,17
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Nurdles,Nurdles,Microplastics,15
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Polystyrene,Polystyrene <4mm,Microplastics,147
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Polystyrene,Polystyrene 4+mm,Not considered microplastics,13
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Plastic Straws,Plastic Straws,Not considered microplastics,0
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Soft Plastics,Soft Plastics <5mm,Microplastics,1
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Soft Plastics,Cellophane,Microplastics,31
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Soft Plastics,Cellophane,Not considered microplastics,11
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Other,Sponge,Not considered microplastics,1
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Other,Twine,Not considered microplastics,0
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Other,Cigarette butts,Not considered microplastics,0
+34,Yarra,18/12/2017,Dec,2017,Summer,0,29.39,15.27,44.66,0.341916704,Other,Other,Not considered microplastics,10
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,95
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,114
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,24
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Nurdles,Nurdles,Microplastics,2
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Polystyrene,Polystyrene <4mm,Microplastics,11
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Polystyrene,Polystyrene 4+mm,Not considered microplastics,5
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Plastic Straws,Plastic Straws,Not considered microplastics,0
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Soft Plastics,Soft Plastics <5mm,Microplastics,12
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,16
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Soft Plastics,Cellophane,Microplastics,61
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Soft Plastics,Cellophane,Not considered microplastics,9
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Other,Sponge,Not considered microplastics,0
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Other,Twine,Not considered microplastics,3
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Other,Cigarette butts,Not considered microplastics,0
+35,Maribyrnong,17/1/2018,Jan,2018,Summer,0,38,0.9,38.9,0.023136247,Other,Other,Not considered microplastics,2
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,202
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,188
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,33
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Nurdles,Nurdles,Microplastics,3
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Polystyrene,Polystyrene <4mm,Microplastics,44
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Polystyrene,Polystyrene 4+mm,Not considered microplastics,5
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Plastic Straws,Plastic Straws,Not considered microplastics,0
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Soft Plastics,Soft Plastics <5mm,Microplastics,19
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,5
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Soft Plastics,Cellophane,Microplastics,35
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Soft Plastics,Cellophane,Not considered microplastics,3
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Other,Sponge,Not considered microplastics,1
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Other,Twine,Not considered microplastics,0
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Other,Cigarette butts,Not considered microplastics,0
+35,Yarra,17/1/2018,Jan,2018,Summer,0.6,10.18,20.99,31.17,0.673403914,Other,Other,Not considered microplastics,2
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,441
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,256
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,22
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Nurdles,Nurdles,Microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Polystyrene,Polystyrene <4mm,Microplastics,11
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Plastic Straws,Plastic Straws,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Soft Plastics,Soft Plastics <5mm,Microplastics,4
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,6
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Soft Plastics,Cellophane,Microplastics,17
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Soft Plastics,Cellophane,Not considered microplastics,5
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Other,Sponge,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Other,Twine,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Other,Cigarette butts,Not considered microplastics,0
+36,Maribyrnong,26/2/2018,Feb,2018,Summer,0.4,0.47,0.17,0.64,0.265625,Other,Other,Not considered microplastics,1
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,29
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,3
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Nurdles,Nurdles,Microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Polystyrene,Polystyrene <4mm,Microplastics,5
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Plastic Straws,Plastic Straws,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Soft Plastics,Soft Plastics <5mm,Microplastics,17
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Soft Plastics,Cellophane,Microplastics,
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Soft Plastics,Cellophane,Not considered microplastics,1
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Other,Sponge,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Other,Twine,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Other,Cigarette butts,Not considered microplastics,0
+36,Yarra,26/2/2018,Feb,2018,Summer,2.4,1.35,0.06,1.38,0.042553191,Other,Other,Not considered microplastics,0
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,68
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,56
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,9
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Nurdles,Nurdles,Microplastics,2
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Polystyrene,Polystyrene <4mm,Microplastics,13
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Plastic Straws,Plastic Straws,Not considered microplastics,1
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Soft Plastics,Soft Plastics <5mm,Microplastics,22
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,17
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Soft Plastics,Cellophane,Microplastics,18
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Soft Plastics,Cellophane,Not considered microplastics,17
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Other,Sponge,Not considered microplastics,0
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Other,Twine,Not considered microplastics,1
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Other,Cigarette butts,Not considered microplastics,2
+37,Maribyrnong,16/3/2018,Mar,2018,Autumn,0,6.47,13.98,20.45,0.683618582,Other,Other,Not considered microplastics,1
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,79
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,78
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,25
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Nurdles,Nurdles,Microplastics,1
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Polystyrene,Polystyrene <4mm,Microplastics,21
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Polystyrene,Polystyrene 4+mm,Not considered microplastics,11
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Plastic Straws,Plastic Straws,Not considered microplastics,0
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Soft Plastics,Soft Plastics <5mm,Microplastics,10
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,8
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Soft Plastics,Cellophane,Microplastics,13
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Soft Plastics,Cellophane,Not considered microplastics,2
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Other,Sponge,Not considered microplastics,0
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Other,Twine,Not considered microplastics,1
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Other,Cigarette butts,Not considered microplastics,0
+37,Yarra,16/3/2018,Mar,2018,Autumn,0,6.4,0.21,6.61,0.031770045,Other,Other,Not considered microplastics,0
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,38
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,35
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,8
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,10
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Nurdles,Nurdles,Microplastics,4
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Polystyrene,Polystyrene <4mm,Microplastics,3
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,2
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Plastic Straws,Plastic Straws,Not considered microplastics,1
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Soft Plastics,Soft Plastics <5mm,Microplastics,2
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,9
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Soft Plastics,Cellophane,Microplastics,4
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Soft Plastics,Cellophane,Not considered microplastics,0
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Other,Sponge,Not considered microplastics,2
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Other,Twine,Not considered microplastics,0
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Other,Cigarette butts,Not considered microplastics,0
+38,Maribyrnong,5/4/2018,Apr,2018,Autumn,0,25.06,6.97,32.03,0.217608492,Other,Other,Not considered microplastics,1
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,63
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,85
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,13
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,3
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Nurdles,Nurdles,Microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Polystyrene,Polystyrene <4mm,Microplastics,12
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Polystyrene,Polystyrene 4+mm,Not considered microplastics,2
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Plastic Straws,Plastic Straws,Not considered microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Soft Plastics,Soft Plastics <5mm,Microplastics,17
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,7
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Soft Plastics,Cellophane,Microplastics,2
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Soft Plastics,Cellophane,Not considered microplastics,2
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Other,Sponge,Not considered microplastics,3
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Other,Twine,Not considered microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Other,Cigarette butts,Not considered microplastics,0
+38,Yarra,5/4/2018,Apr,2018,Autumn,0,23.18,0.86,24.04,0.03577371,Other,Other,Not considered microplastics,0
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,52
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,65
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,19
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Nurdles,Nurdles,Microplastics,3
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Polystyrene,Polystyrene <4mm,Microplastics,6
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Polystyrene,Polystyrene 4+mm,Not considered microplastics,6
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Plastic Straws,Plastic Straws,Not considered microplastics,0
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Soft Plastics,Soft Plastics <5mm,Microplastics,20
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,17
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Soft Plastics,Cellophane,Microplastics,18
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Soft Plastics,Cellophane,Not considered microplastics,7
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Other,Sponge,Not considered microplastics,0
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Other,Twine,Not considered microplastics,1
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Other,Cigarette butts,Not considered microplastics,0
+39,Maribyrnong,24/5/2018,May,2018,Autumn,0.4,14.69,27.19,41.88,0.649235912,Other,Other,Not considered microplastics,9
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,73
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,182
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,35
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,4
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Nurdles,Nurdles,Microplastics,6
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Polystyrene,Polystyrene <4mm,Microplastics,17
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Polystyrene,Polystyrene 4+mm,Not considered microplastics,9
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Plastic Straws,Plastic Straws,Not considered microplastics,0
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Soft Plastics,Soft Plastics <5mm,Microplastics,26
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,25
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Soft Plastics,Cellophane,Microplastics,17
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Soft Plastics,Cellophane,Not considered microplastics,12
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Other,Sponge,Not considered microplastics,1
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Other,Twine,Not considered microplastics,0
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Other,Cigarette butts,Not considered microplastics,0
+39,Yarra,24/5/2018,May,2018,Autumn,6.8,12.26,0.57,12.83,0.044427124,Other,Other,Not considered microplastics,10
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,28
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,12
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,4
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Nurdles,Nurdles,Microplastics,1
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Polystyrene,Polystyrene <4mm,Microplastics,6
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Plastic Straws,Plastic Straws,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Soft Plastics,Soft Plastics <5mm,Microplastics,2
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Soft Plastics,Cellophane,Microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Soft Plastics,Cellophane,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Other,Sponge,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Other,Twine,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Other,Cigarette butts,Not considered microplastics,0
+40,Maribyrnong,21/6/2018,Jun,2018,Winter,2,2.01,0.05,2.06,0.024271845,Other,Other,Not considered microplastics,1
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,386
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,369
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,66
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,14
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Nurdles,Nurdles,Microplastics,26
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Polystyrene,Polystyrene <4mm,Microplastics,220
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Polystyrene,Polystyrene 4+mm,Not considered microplastics,95
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Plastic Straws,Plastic Straws,Not considered microplastics,1
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Soft Plastics,Soft Plastics <5mm,Microplastics,45
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,18
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Soft Plastics,Cellophane,Microplastics,26
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Soft Plastics,Cellophane,Not considered microplastics,24
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Other,Sponge,Not considered microplastics,5
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Other,Twine,Not considered microplastics,0
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Other,Cigarette butts,Not considered microplastics,0
+40,Yarra,21/6/2018,Jun,2018,Winter,0.2,53.49,6.39,59.88,0.106713427,Other,Other,Not considered microplastics,5
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,116
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,117
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,34
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,17
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Nurdles,Nurdles,Microplastics,24
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Polystyrene,Polystyrene <4mm,Microplastics,14
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Polystyrene,Polystyrene 4+mm,Not considered microplastics,54
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Plastic Straws,Plastic Straws,Not considered microplastics,0
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Soft Plastics,Soft Plastics <5mm,Microplastics,13
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,12
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Soft Plastics,Cellophane,Microplastics,18
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Soft Plastics,Cellophane,Not considered microplastics,8
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Other,Sponge,Not considered microplastics,4
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Other,Twine,Not considered microplastics,5
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Other,Cigarette butts,Not considered microplastics,1
+41,Maribyrnong,12/7/2018,Jul,2018,Winter,0,23,4.48,27.48,0.163027656,Other,Other,Not considered microplastics,2
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,54
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,55
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,24
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,6
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Nurdles,Nurdles,Microplastics,1
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Polystyrene,Polystyrene <4mm,Microplastics,14
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Polystyrene,Polystyrene 4+mm,Not considered microplastics,18
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Plastic Straws,Plastic Straws,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Soft Plastics,Soft Plastics <5mm,Microplastics,4
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,15
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Soft Plastics,Cellophane,Microplastics,17
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Soft Plastics,Cellophane,Not considered microplastics,25
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Other,Sponge,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Other,Twine,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Other,Cigarette butts,Not considered microplastics,0
+41,Yarra,12/7/2018,Jul,2018,Winter,0,0.106,0.014,0.12,0.116666667,Other,Other,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,32
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,12
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Nurdles,Nurdles,Microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Polystyrene,Polystyrene <4mm,Microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Polystyrene,Polystyrene 4+mm,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Plastic Straws,Plastic Straws,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Soft Plastics,Soft Plastics <5mm,Microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Soft Plastics,Cellophane,Microplastics,2
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Soft Plastics,Cellophane,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Other,Sponge,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Other,Twine,Not considered microplastics,1
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Other,Cigarette butts,Not considered microplastics,0
+42,Maribyrnong,3/8/2018,Aug,2018,Winter,3.6,0.19,0.001,0.19,0.005235602,Other,Other,Not considered microplastics,0
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,197
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,253
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,74
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,16
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Nurdles,Nurdles,Microplastics,8
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Polystyrene,Polystyrene <4mm,Microplastics,106
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Polystyrene,Polystyrene 4+mm,Not considered microplastics,95
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,1
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Plastic Straws,Plastic Straws,Not considered microplastics,0
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Soft Plastics,Soft Plastics <5mm,Microplastics,13
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,13
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Soft Plastics,Cellophane,Microplastics,55
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Soft Plastics,Cellophane,Not considered microplastics,16
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Other,Sponge,Not considered microplastics,2
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Other,Twine,Not considered microplastics,4
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Other,Cigarette butts,Not considered microplastics,1
+42,Yarra,3/8/2018,Aug,2018,Winter,4.8,18.58,17.44,36.02,0.484175458,Other,Other,Not considered microplastics,1
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,66
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,76
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,11
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,5
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Nurdles,Nurdles,Microplastics,7
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Polystyrene,Polystyrene <4mm,Microplastics,24
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Polystyrene,Polystyrene 4+mm,Not considered microplastics,3
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Plastic Straws,Plastic Straws,Not considered microplastics,0
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Soft Plastics,Soft Plastics <5mm,Microplastics,20
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,4
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Soft Plastics,Lolly Wrappers,Not considered microplastics,1
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Soft Plastics,Cellophane,Microplastics,13
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Soft Plastics,Cellophane,Not considered microplastics,12
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Other,Sponge,Not considered microplastics,0
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Other,Twine,Not considered microplastics,0
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Other,Cigarette butts,Not considered microplastics,0
+43,Maribyrnong,4/10/2018,Oct,2018,Spring,0,9.26,1.76,11.02,0.159709619,Other,Other,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,146
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,98
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,11
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,2
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Nurdles,Nurdles,Microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Polystyrene,Polystyrene <4mm,Microplastics,16
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Polystyrene,Polystyrene 4+mm,Not considered microplastics,1
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Plastic Straws,Plastic Straws,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Soft Plastics,Soft Plastics <5mm,Microplastics,2
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,3
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Soft Plastics,Cellophane,Microplastics,18
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Soft Plastics,Cellophane,Not considered microplastics,8
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Other,Sponge,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Other,Twine,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Other,Cigarette butts,Not considered microplastics,0
+43,Yarra,4/10/2018,Oct,2018,Spring,0,3.5,0.25,3.75,0.066666667,Other,Other,Not considered microplastics,1
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,183
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,157
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,15
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,10
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Nurdles,Nurdles,Microplastics,5
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Polystyrene,Polystyrene <4mm,Microplastics,49
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Polystyrene,Polystyrene 4+mm,Not considered microplastics,5
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Plastic Straws,Plastic Straws,Not considered microplastics,1
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Soft Plastics,Soft Plastics <5mm,Microplastics,17
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,6
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Soft Plastics,Lolly Wrappers,Not considered microplastics,0
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Soft Plastics,Cellophane,Microplastics,13
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Soft Plastics,Cellophane,Not considered microplastics,4
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Other,Sponge,Not considered microplastics,1
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Other,Twine,Not considered microplastics,3
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Other,Cigarette butts,Not considered microplastics,0
+44,Maribyrnong,19/12/2018,Dec,2018,Summer,0.6,53.36,0.88,54.24,0.016224189,Other,Other,Not considered microplastics,2
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Hard plastic fragments,Hard plastic fragments <2mm,Microplastics,1079
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Hard plastic fragments,Hard plastic fragments 2-5mm,Microplastics,1143
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Hard plastic fragments,Hard plastic fragments 6-10mm,Not considered microplastics,217
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Hard plastic fragments,Hard plastic fragments 10+mm,Not considered microplastics,67
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Nurdles,Nurdles,Microplastics,36
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Polystyrene,Polystyrene <4mm,Microplastics,592
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Polystyrene,Polystyrene 4+mm,Not considered microplastics,100
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Plastic Bottle Caps,Plastic Bottle Caps,Not considered microplastics,0
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Plastic Straws,Plastic Straws,Not considered microplastics,1
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Soft Plastics,Soft Plastics <5mm,Microplastics,54
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Soft Plastics,Soft Plastics 5+mm,Not considered microplastics,18
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Soft Plastics,Lolly Wrappers,Not considered microplastics,2
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Soft Plastics,Cellophane,Microplastics,28
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Soft Plastics,Cellophane,Not considered microplastics,9
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Other,Sponge,Not considered microplastics,21
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Other,Twine,Not considered microplastics,3
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Other,Cigarette butts,Not considered microplastics,3
+44,Yarra,19/12/2018,Dec,2018,Summer,7.4,265.05,8.89,273.94,0.032452362,Other,Other,Not considered microplastics,47

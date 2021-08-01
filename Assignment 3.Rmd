@@ -1,0 +1,373 @@
+---
+title: "Microplastic Analysis"
+author: "How Jia Jean"
+date: "22/05/2020
+output: html_document
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+```{r}
+?dplyr
+library("tidyverse")
+
+```
+
+```{r}
+#Research question: 
+#Does either river have more or less plastic in terms of mass and count? 
+#Does the amount of plastic in either river change over time?
+#Does the amount of plastic in either differ between seasons and more abundent in certain river
+
+#Hypothesis: The accumulation of microplastic count is higher in the Maribyrnong river compared to Yarra river depending on the change in seasons, and rainfall events and the distribution of types of plastic varies between the two rivers
+
+```
+```{r}
+library(tidyverse)
+micro_sum <-microplastic %>%
+         #filter(WATERWAY %in% c("Maribynong", "Yarra")) %>% 
+         group_by(TRAWL, WATERWAY, MONTH, YEAR, SEASON) %>%          
+                  summarise(org_mass = mean(`Organic mass (g)`, na.rm = TRUE), 
+                  micro_mass = mean(`Microplastic mass (g)`, na.rm = TRUE), 
+                  rainfall = mean(`RAINFALL 48`, na.rm = T),
+                  count = sum(COUNT, na.rm = TRUE))
+micro_sum
+
+micro_sum2  <-microplastic %>% 
+         #filter(WATERWAY %in% c("Maribynong", "Yarra")) %>% 
+         group_by(WATERWAY, YEAR) %>%          
+                  summarise(org_mass = mean(`Organic mass (g)`, na.rm = TRUE), 
+                  micro_mass = mean(`Microplastic mass (g)`, na.rm = TRUE), 
+                  rainfall = mean(`RAINFALL 48`, na.rm = T),
+                  count = sum(COUNT, na.rm = TRUE))
+micro_sum2
+
+mary <- filter(microplastic, WATERWAY == "Maribyrnong")
+yarra <- filter(microplastic, WATERWAY == "Yarra")
+
+mari_sum <- mary %>%
+  group_by(TRAWL, MONTH, YEAR, SEASON) %>%          
+                  summarise(org_mass = mean(`Organic mass (g)`, na.rm = TRUE), 
+                  micro_mass = mean(`Microplastic mass (g)`, na.rm = TRUE), 
+                  rainfall = mean(`RAINFALL 48`, na.rm = T),
+                  count = sum(COUNT, na.rm = TRUE))
+mari_sum
+```
+
+```{r}
+library(tidyverse)
+F2 <- ggplot(micro_sum2, mapping=aes(x=YEAR, y=micro_mass, fill=WATERWAY))+
+  geom_bar(stat="identity", position="dodge") +
+  stat_summary(fun.data = mean_cl_normal, geom="errorbar")+
+  labs(x="Year", y="Microplastic mass (g)")+
+  theme_bw()
+
+print(F2)
+
+F3 <- ggplot(micro_sum2, mapping=aes(x=YEAR, y=count, fill=WATERWAY))+
+  geom_bar(stat="identity", position="dodge") +
+  stat_summary(fun.data = mean_cl_normal, geom="errorbar")+
+  labs(x="Year", y="Count")+
+  theme_bw()
+
+print(F3)
+
+F4 <- ggplot(micro_sum, mapping=aes(x=TRAWL, y=micro_mass, colour=WATERWAY))+
+  geom_smooth(stat="identity", position="dodge") +
+  labs(x="Trawl", y="Microplastic mass (g)")+
+  theme_bw()
+
+print(F4)
+```
+
+```{r}
+ggplot(micro_sum, mapping=aes(x=count, y=micro_mass, colour=WATERWAY))+
+  geom_jitter() +
+  scale_x_log10() +
+  scale_y_log10() +
+  labs(x="Count (ln(unit))", y="Microplastic mass (ln(g))")
+
+ggplot(micro_sum, mapping=aes(x=org_mass, y=micro_mass, colour=WATERWAY))+
+  geom_jitter() +
+  scale_x_log10() +
+  scale_y_log10() +
+  labs(x="Organic mass (ln(g))", y="Microplastic mass (ln(g))")
+
+```
+
+#Difference between waterway and mass
+```{r}
+F1 <- ggplot(micro_sum, mapping=aes(x=WATERWAY,y=micro_mass)) +
+      stat_boxplot(geom = 'errorbar', linetype=1, width=0.5)+
+      geom_boxplot(outlier.shape=1, outlier.colour = "red") +
+      labs(x="Waterway",y="Microplastic Mass (g)")+
+      ggtitle("Boxplot of Waterway vs Microplastic mass") +
+      theme(plot.title = element_text(hjust = 0.5))
+print(F1)
+
+ggplot(micro_sum, mapping=aes(x=WATERWAY,y=count)) +
+      stat_boxplot(geom = 'errorbar', linetype=1, width=0.5)+
+      geom_boxplot(outlier.shape=1, outlier.colour = "red") +
+      labs(x="Waterway",y="Count")+
+      ggtitle("Boxplot of Waterway vs Count") +
+      theme(plot.title = element_text(hjust = 0.5))
+
+ggplot(micro_sum, mapping=aes(x=WATERWAY,y=org_mass)) +
+      stat_boxplot(geom = 'errorbar', linetype=1, width=0.5)+
+      geom_boxplot(outlier.shape=1, outlier.colour = "red") +
+      labs(x="Waterway",y="Organic mass (g)")+
+      ggtitle("Boxplot of Waterway vs Organic mass") +
+      theme(plot.title = element_text(hjust = 0.5))
+
+```
+
+
+```{r}
+yarra_cm <- filter(micro_sum, WATERWAY == "Yarra")
+mari_cm <- filter(micro_sum, WATERWAY == "Maribyrnong")
+hist(yarra_cm$micro_mass)
+hist(mari_cm$micro_mass) 
+```
+#Welch t-test
+```{r}
+#install.packages("lsr")
+library(lsr)
+
+micro_sum$SEASON <- as.factor(micro_sum$SEASON)
+
+micro_sum$micro_mass <- as.numeric(micro_sum$micro_mass)
+
+t.test(micro_mass~WATERWAY, data=micro_sum, var.equal=T)
+cohensD(micro_mass~WATERWAY, data=micro_sum)
+
+t.test(org_mass~WATERWAY, data=micro_sum, var.equal=T)
+cohensD(org_mass~WATERWAY, data=micro_sum)
+```
+```{r}
+
+```
+
+```{r}
+#The value of microplastic mass of 2 waterways differ significantly (diff. between Rank sum of maribynong & yarra)
+wilcox.test(micro_mass~WATERWAY, data = micro_sum)
+
+wilcox.test(org_mass~WATERWAY, data = micro_sum)
+
+wilcox.test(count~WATERWAY, data = micro_sum)
+
+wilcox.test(rainfall~WATERWAY, data = micro_sum)
+
+wilcox.test(TRAWL~WATERWAY, data = micro_sum)
+
+`mary <- filter(micro_sum, WATERWAY == "Maribyrnong")
+yarra <- filter(micro_sum, WATERWAY == "Yarra")
+wilcox.test(yarra$rainfall~SEASON, data = micro_sum)`
+```
+```{r}
+cor.test(micro_sum$TRAWL,micro_sum$count,method="kendall")
+
+#subset different waterways
+mary <- filter(micro_sum, WATERWAY == "Maribyrnong")
+yarra <- filter(micro_sum, WATERWAY == "Yarra")
+
+cor.test(mary$TRAWL,mary$micro_mass,method="kendall") #can substitute mass for count, trawl for year etc
+cor.test(yarra$TRAWL,yarra$micro_mass,method="kendall")
+
+cor.test(mary$count,mary$micro_mass,method="kendall")
+cor.test(yarra$count,yarra$micro_mass,method="kendall")
+
+cor.test(mary$org_mass,mary$micro_mass,method="kendall")
+cor.test(yarra$org_mass,yarra$micro_mass,method="kendall")
+
+cor.test(mary$rainfall,mary$micro_mass,method="kendall")
+cor.test(yarra$rainfall,yarra$micro_mass,method="kendall")
+
+```
+
+```{r}
+#Dotplot of Microplastic mass of Maribynong and Yarra in different months
+F2 <- ggplot(micro_sum, mapping=aes(x=WATERWAY,y=micro_mass, colour=MONTH)) +
+  geom_jitter(width=0.2, size=2)+
+  stat_summary(fun.data = mean_se, size = 0.5, colour = "black") +
+  theme(panel.background = element_rect(fill = 'white', colour = 'black'))+
+  labs(x = "Waterway",
+       y = "Microplastic Mass (g)") +
+  theme_bw()
+
+print(F2)
+```
+```{r}
+#Graph of microplastic mass over time
+F3 <- ggplot(micro_sum, mapping=aes(x=YEAR, y=micro_mass, colour=WATERWAY))+
+  stat_smooth() +
+  labs(x="Year", y="Microplastic mass (g)")+
+  theme_bw()
+
+print(F3)
+
+#Graph of microplastic count over time
+F4 <- ggplot(micro_sum, mapping=aes(x=YEAR, y=count, colour=WATERWAY))+
+  stat_smooth() +
+  labs(x="Year", y="Microplastic count")+
+  theme_bw()
+
+print(F4)
+
+F5 <- ggplot(micro_sum, mapping=aes(x=YEAR, y=rainfall, colour=WATERWAY))+
+  stat_smooth() +
+  labs(x="Year", y="Rainfall 48 (hrs)")+
+  theme_bw()
+
+print(F5)
+```
+
+```{r}
+#The types of microplastic more abundance in certain season
+plastic.xtab <- xtabs(COUNT~CATEGORY+SEASON, data = microplastic)
+plastic.xtab 
+
+chisq.test(plastic.xtab,sim=T)
+RES<-chisq.test(plastic.xtab,sim=T)$res
+library("vcd")
+strucplot(plastic.xtab, residuals=RES)
+RES
+
+plastic2.xtab <- xtabs(`Microplastic mass (g)`~CATEGORY+SEASON, data = microplastic)
+plastic2.xtab 
+
+
+#Any residual that is below -2 or above +2 is significant at the 0.05 level. Any residual that is below -4 and above +4 is significant at the 0.01 level.To avoid over-interpreting the results, only residuals significant at the 0.01 level (i.e. less than -4 or greater than +4) will be interpreted.
+
+```
+
+```{r}
+boxplot(micro_mass~SEASON, data=micro_sum)
+attach(micro_sum)
+```
+
+```{r}
+#correlation tests
+cor.test(micro_sum$TRAWL,micro_sum$count,method="kendall")
+
+#subset different waterways
+mar <- filter(micro_sum,WATERWAY == "Maribyrnong")
+yar <- filter(micro_sum,WATERWAY == "Yarra")
+
+cor.test(mar$TRAWL,mar$count,method="kendall")
+cor.test(yar$TRAWL,yar$count,method="kendall")
+```
+
+```{r}
+micro_cat<-microplastic %>%
+           group_by(WATERWAY, YEAR, CATEGORY) %>%
+           summarise(mass=mean(`Microplastic mass (g)`, na.rm = T),
+                     count=sum(COUNT, na.rm = T),
+                     rainfall=mean(`RAINFALL 48`, na.rm = T))
+micro_cat
+```
+
+
+#Diference in category of plastic between waterways
+```{r}
+library(tidyverse)
+F4 <- ggplot(microplastic, mapping = aes(x = CATEGORY, y=COUNT, colour=WATERWAY)) +
+      geom_boxplot() +
+      scale_y_log10() +
+      labs(x = "Category of Plastic",
+           y = "Count (ln(g))") +
+      theme(axis.text.x=element_text(angle = 80, vjust = 0.5))
+
+print(F4)
+```
+
+#Difference between organic mass and microplastic mass
+```{r}
+cor.test(micro_sum$org_mass,micro_sum$micro_mass,method="kendall")
+```
+
+```{r}
+ggplot(microplastic, mapping=aes(x=`Microplastic mass (g)`, y=`Organic mass (g)`))+
+  geom_point(size=1.5) +
+  geom_smooth(method=loess, col="red") +
+ #ylim(0,30) +
+  scale_y_log10() +
+  labs(x="Microplastic mass (g)", y="Organic mass (g)")+
+  theme_bw()
+#Scatterplot of microplastic mass and organic mass over time
+F5 <- ggplot(microplastic, mapping=aes(x=`Microplastic mass (g)`, y=`Organic mass (g)`, col=WATERWAY))+
+  geom_point(size=1.5) +
+  geom_smooth(method=lm, col="red") +
+  ylim(0,30) +
+  #scale_y_log10() +
+  facet_wrap(~YEAR) +
+  labs(x="Microplastic mass (g)", y="Organic mass (g)")+
+  theme_bw()
+
+print(F5)
+
+#Scatterplot of microplastic mass and organic mass in diferent season
+F6 <- ggplot(micro_sum, mapping=aes(x=micro_mass, y=org_mass, col=WATERWAY))+
+  geom_point(size=1.5) +
+  geom_smooth(method=lm, col="red") +
+  ylim(0,300) +
+  scale_y_log10() +
+  scale_x_log10() +
+  facet_wrap(~SEASON) +
+  labs(x="Microplastic mass (g)", y="Organic mass (g)")+
+  theme_bw()
+
+print(F6)
+```
+```{r}
+F7 <- ggplot(micro_sum, mapping=aes(x=count, y=micro_mass, col=WATERWAY))+
+  geom_point(size=1.5) +
+  geom_smooth(method=lm, col="red") +
+  ylim(0,300) +
+  scale_y_log10() +
+  scale_x_log10() +
+  facet_wrap(~SEASON) +
+  labs(x="Microplastic mass (g)", y="Organic mass (g)")+
+  theme_bw()
+
+print(F7)
+```
+
+```{r}
+ggplot(microplastic, mapping = aes(x=`Organic mass (g)`, group=WATERWAY)) + 
+       geom_density(aes(fill=WATERWAY), alpha=0.5) +
+       labs(x="Rainfall events")
+
+ggplot(microplastic, mapping = aes(x=`Microplastic mass (g)`, group=WATERWAY)) + 
+       geom_density(aes(fill=WATERWAY), alpha=0.5) +
+       labs(x="Rainfall events")
+```
+```{r}
+ggplot(micro_sum, mapping=aes(x=SEASON, y=rainfall, fill=WATERWAY))+
+  geom_bar(stat="identity", position = "dodge")+
+  labs(x="Season", y="Rainfall events")
+
+```
+```{r}
+rainfall_sum <- microplastic %>%
+ group_by(WATERWAY, SEASON, `RAINFALL 48`) %>%
+ summarise (mean=mean(`RAINFALL 48`, na.rm = T),
+            st_dev=sd(`RAINFALL 48`, na.rm = T),
+            n=sum(!is.na(`RAINFALL 48`)),
+            se= st_dev/sqrt(n))
+rainfall_sum
+```
+
+
+
