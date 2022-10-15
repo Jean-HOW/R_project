@@ -1,1 +1,1 @@
-# R_project
+# Scientific academy 
